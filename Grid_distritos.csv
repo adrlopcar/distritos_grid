@@ -24,8 +24,8 @@ GridID;Distrito
 23; Sarria-Sant Gervasi
 24; Sarria-Sant Gervasi
 25; Sarria-Sant Gervasi
-26; el Prat de Llobregat
-27; l'Hospitalet de Llobregat
+26;Prat del Llobregat
+27;Hospitalet del Llobregat
 28;Ciutat Vella
 29; Esplugues de Llobregat
 30; les Corts
@@ -39,7 +39,7 @@ GridID;Distrito
 38; Sarria-Sant Gervasi
 39; Sarria-Sant Gervasi
 40;Prat del Llobregat
-41; l'Hospitalet de Llobregat
+41;Hospitalet del Llobregat
 42;les Corts
 43; les Corts
 44;les Corts
@@ -54,7 +54,7 @@ GridID;Distrito
 53; Sarria-Sant Gervasi
 54; Sarria-Sant Gervasi
 55; Sants-Montjuic
-56; l'Hospitalet de Llobregat
+56;Hospitalet del Llobregat
 57;Hospitalet del Llobregat
 58;Hospitalet del Llobregat
 59; les Corts
@@ -71,11 +71,11 @@ GridID;Distrito
 70; Sarria-Sant Gervasi
 71; Sarria-Sant Gervasi
 72; Sarria-Sant Gervasi
-73; l'Hospitalet de Llobregat
+73;Hospitalet del Llobregat
 74; Sants-Montjuic
 75; Sant Marti
 76;Ciutat Vella
-77; l'Hospitalet de Llobregat
+77;Hospitalet del Llobregat
 78;les Corts
 79; les Corts
 80; les Corts
@@ -91,13 +91,13 @@ GridID;Distrito
 90;Ciutat Vella
 91; Sarria-Sant Gervasi
 92; Sarria-Sant Gervasi
-93; el Prat de Llobregat
+93;Prat del Llobregat
 94;Ciutat Vella
 95; Sants-Montjuic
 96; Sants-Montjuic
 97; Sants-Montjuic
 98; Sant Marti
-99; l'Hospitalet de Llobregat
+99;Hospitalet del Llobregat
 100;Hospitalet del Llobregat
 101;les Corts
 102; les Corts
@@ -122,7 +122,7 @@ GridID;Distrito
 121; Sants-Montjuic
 122; Sants-Montjuic
 123; Sants-Montjuic
-124; l'Hospitalet de Llobregat
+124;Hospitalet del Llobregat
 125; les Corts
 126; les Corts
 127; les Corts
@@ -147,7 +147,7 @@ GridID;Distrito
 146;Ciutat Vella
 147; Sants-Montjuic
 148;Ciutat Vella
-149; l'Hospitalet de Llobregat
+149;Hospitalet del Llobregat
 150; les Corts
 151; les Corts
 152;les Corts
@@ -173,7 +173,7 @@ GridID;Distrito
 172; Sants-Montjuic
 173; Sants-Montjuic
 174;Ciutat Vella
-175; l'Hospitalet de Llobregat
+175;Hospitalet del Llobregat
 176; les Corts
 177;les Corts
 178; Sant Marti
@@ -197,7 +197,7 @@ GridID;Distrito
 196; Sants-Montjuic
 197; Sant Marti
 198; Sants-Montjuic
-199; l'Hospitalet de Llobregat
+199;Hospitalet del Llobregat
 200; Sants-Montjuic
 201;Ciutat Vella
 202;les Corts
@@ -253,7 +253,7 @@ GridID;Distrito
 252; Sants-Montjuic
 253; Sants-Montjuic
 254; Sant Marti
-255; l'Hospitalet de Llobregat
+255;Hospitalet del Llobregat
 256; Sants-Montjuic
 257; Sants-Montjuic
 258; Sants-Montjuic
@@ -285,9 +285,9 @@ GridID;Distrito
 284;Ciutat Vella
 285;Ciutat Vella
 286; Sants-Montjuic
-287; l'Hospitalet de Llobregat
-288; l'Hospitalet de Llobregat
-289; l'Hospitalet de Llobregat
+287;Hospitalet del Llobregat
+288;Hospitalet del Llobregat
+289;Hospitalet del Llobregat
 290;Sant Adria del Besos
 291;Ciutat Vella
 292; Sants-Montjuic
@@ -322,13 +322,13 @@ GridID;Distrito
 321;Ciutat Vella
 322; Sants-Montjuic
 323; Sants-Montjuic
-324; l'Hospitalet de Llobregat
+324;Hospitalet del Llobregat
 325;Hospitalet del Llobregat
 326; Sants-Montjuic
 327; Sants-Montjuic
 328;Sant Adria del Besos
-329; l'Hospitalet de Llobregat
-330; l'Hospitalet de Llobregat
+329;Hospitalet del Llobregat
+330;Hospitalet del Llobregat
 331; Sants-Montjuic
 332;Ciutat Vella
 333; Sants-Montjuic
@@ -364,10 +364,10 @@ GridID;Distrito
 363; Sants-Montjuic
 364; Sants-Montjuic
 365; Sants-Montjuic
-366; l'Hospitalet de Llobregat
-367; l'Hospitalet de Llobregat
+366;Hospitalet del Llobregat
+367;Hospitalet del Llobregat
 368;Hospitalet del Llobregat
-369; l'Hospitalet de Llobregat
+369;Hospitalet del Llobregat
 370; Sants-Montjuic
 371; Sants-Montjuic
 372; Sants-Montjuic
